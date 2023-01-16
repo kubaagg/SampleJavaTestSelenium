@@ -14,7 +14,6 @@ public class CreateAccountTest extends BasicTest {
 
     int randomNumber = (int) (Math.random() * 1000);
 
-
     @Test
     public void createAccountTest() {
         ExtentTest test = extentReports.createTest("Create new account test");
@@ -31,7 +30,6 @@ public class CreateAccountTest extends BasicTest {
         Assert.assertEquals(registeredMessage.getText(), "Thank you for registering with Fake Online Clothing Store.");
         test.log(Status.PASS, "Registration assertion check");
     }
-
     @Test
     public void incorrectDataCreateAccountTest() {
         ExtentTest test = extentReports.createTest("Entering invalid fields");
