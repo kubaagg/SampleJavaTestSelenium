@@ -42,7 +42,6 @@ public class CreateAccountPage {
     @FindBy(id = "email_address-error")
     private WebElement emailErrorMessage;
 
-
     public void createAccount(String name, String secondName, String email, String password) {
         logger.info("Create new account");
         firstName.sendKeys(name);
