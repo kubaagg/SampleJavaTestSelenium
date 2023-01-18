@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="703f010e-b50c-465a-a265-f4b4600ab605" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/kuba-/Desktop/SampleJavaTestInSelenium",
+    "last_opened_file_path": "C:/Users/kuba-/Desktop/untitled",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -160,11 +159,35 @@
       <option name="project" value="LOCAL" />
       <updated>1673876022620</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add README.md">
+      <created>1673876851435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673876851435</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add log and improving the appearance of the code.">
+      <created>1673877758658</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673877758658</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Removing spaces in code.">
+      <created>1673877871716</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673877871716</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create first test https://magento.softwaretestingboard.com/ website" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create first test https://magento.softwaretestingboard.com/ website" />
+    <MESSAGE value="Add README.md" />
+    <MESSAGE value="Add log and improving the appearance of the code." />
+    <MESSAGE value="Removing spaces in code." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removing spaces in code." />
   </component>
 </project>

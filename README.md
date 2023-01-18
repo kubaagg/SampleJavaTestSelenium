@@ -5,7 +5,7 @@ Website test.
 
 <h1>Technologies used</h1>
 
-* JAVA 19.0.1
+* JAVA 11.0.17
 * Apache Maven 3.8.6
 * TestNG
 * Selenium 4.7.2
